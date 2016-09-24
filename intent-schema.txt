@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "intent": "GetCommand",
+      "slots":[
+        {
+          "name": "command",
+          "type": "COMMAND"
+        },
+        {
+          "name": "zoneId",
+          "type": "ZONE"
+        }
+      ]
+    },
+    {
+      "intent":"GetChannelDirect",
+      "slots":[
+        {
+          "name": "ChannelNumber",
+          "type": "AMAZON.NUMBER"
+        },
+                {
+          "name": "zoneId",
+          "type": "ZONE"
+        }
+      ]
+    }
+  ]
+}
