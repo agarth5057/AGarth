@@ -1,0 +1,18 @@
+GetCommand to {command} in the {zoneId}
+GetCommand go to {command} in the {zoneId}
+GetCommand what {command} am i watching in the {zoneId}
+GetCommand {command} in the {zoneId}
+GetCommand {command}
+GetCommand go to {command}
+GetCommand to {command}
+GetCommand what {command} am i watching in the {zoneId}
+GetCommand what {command} am i watching 
+
+
+
+GetChannelDirect go to channel {ChannelNumber} in the {zoneId}
+GetChannelDirect change channel to {ChannelNumber} in the {zoneId}
+GetChannelDirect channel {ChannelNumber} in the {zoneId}
+GetChannelDirect go to channel {ChannelNumber}
+GetChannelDirect change channel to {ChannelNumber}
+GetChannelDirect channel {ChannelNumber}
